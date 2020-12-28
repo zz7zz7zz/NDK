@@ -36,7 +36,7 @@
   
   项目一：使用Native获取签名并且验证(libsignature.so)。
   
-  项目二：使用Native编写Socket长连接(libsocket.so)。
+  项目二：使用Native编写Socket长连接，需要熟悉Select，Poll，EPoll区别(libsocket.so)。
   
   项目三：使用Native编写ffmpeg功能(libFFmpegCmd.so，libFFmpegMain.so)。
   
